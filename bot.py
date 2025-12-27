@@ -10,8 +10,8 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Configuration - Replace these with your values
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-ADMIN_ID = YOUR_ADMIN_TELEGRAM_ID  # Your Telegram user ID (number)
+BOT_TOKEN = "8269126613:AAFf06tKFOFXEp463Py0AtsPtv6X6j8A74Y"
+ADMIN_ID = 7109279395  # Your Telegram user ID (number)
 
 # Your Private Channels - Just add bot as admin, no manual setup needed!
 # Leave this list empty - bot will auto-detect channels!
